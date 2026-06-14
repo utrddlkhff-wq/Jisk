@@ -6,3 +6,6 @@ tdata*.zip
 *.session-journal
 session_string.txt
 *.tdesktop
+_in/
+*.json
+twoFA*.txt
