@@ -1,0 +1,8 @@
+# НИКОГДА не коммитим секреты/сессии
+.venv/
+tdata/
+tdata*.zip
+*.session
+*.session-journal
+session_string.txt
+*.tdesktop
